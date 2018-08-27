@@ -21,6 +21,6 @@
   https://www.thegeekstuff.com/2010/02/turbocharge-awk-scripts-translate-into-c-sudoku-revisted/
 - published about it in blog:
   http://billduncan.org/awk-the-often-ignored-little-language/
-  http://billduncan.org/?p=508&preview=true
+  http://billduncan.org/from-the-get-go/
 
 
